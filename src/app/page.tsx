@@ -21,8 +21,8 @@ const data: TData[] = [
     colors: ['#EE4444', '#3C81F6', '#000000'],
     images: {
       '#EE4444': 'https://m.media-amazon.com/images/I/81cJ1kUT1LL._SL1500_.jpg',
+      '#3C81F6': 'https://cdn1.ozone.ru/s3/multimedia-j/6107855083.jpg',
       '#000000': 'https://i.ebayimg.com/00/s/MTUwMFgxMTk3/z/AkEAAOSwy9thMSaQ/$_57.JPG?set_id=8800005007',
-      '#3C81F6': 'https://media.pricebook.co.id/images/product/L/93363_L_1.jpg',
     },
   }
 ]
